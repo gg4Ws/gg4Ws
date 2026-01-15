@@ -12,7 +12,7 @@ Meu nome é Gabriel, sou estudante de Engenharia de Computação e desenvolvedor
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 <a href="https://www.linkedin.com/in/gabriel-oliveira02" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/white" height="28"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
 </a>
 [![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/)
 
