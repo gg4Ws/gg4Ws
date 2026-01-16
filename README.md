@@ -8,6 +8,8 @@ Meu nome é Gabriel, sou estudante de Engenharia de Computação e desenvolvedor
 - 💻 Desenvolvedor Full Stack  
 - 🎮 Gosto de jogos, tecnologia e projetos desafiadores  
 - 🌱 Atualmente estudando React, Node.js e APIs
+
+  
 📬 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
