@@ -1,6 +1,6 @@
-Olá, bem-vindo(a) ao meu GitHub! 👋
+Olá, bem-vindo(a) ao meu GitHub! 
 
-Meu nome é Gabriel, sou estudante de Engenharia de Computação e desenvolvedor Full Stack.
+Meu nome é Gabriel, sou estudante de Engenharia de Computação e aspirante a desenvolvedor Full Stack.
 
 👨‍💻 Sobre mim
 
